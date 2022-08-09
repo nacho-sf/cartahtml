@@ -1,2 +1,2 @@
-# carta
-Etiquetas de formato de texto, listas y comentarios
+# Carta
+Ejercicio: https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas
